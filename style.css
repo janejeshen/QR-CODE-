@@ -1,0 +1,21 @@
+body {background-color: hsl(212, 45%, 89%); font-size: 30px; font-family:'Outfit',sans-serif;
+font-weight: 400, 700; }
+
+.center {
+    background-color: white;
+    position: fixed;
+    border-radius: 1em;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding: 20px;
+    transform: translate(-50%,-50%);
+    width: 500px;
+}
+
+div img {
+    border-radius: 1em;
+    width: 100%;
+    height: auto;
+}
